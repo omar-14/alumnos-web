@@ -1,0 +1,58 @@
+.centrar{
+    text-align: center;
+}
+
+.justificar{
+    text-align: justify;
+}
+
+.azul{
+    color:#006699;
+}
+
+.guinda{
+    color:#6C1D45;
+}
+
+
+@media only screen and (max-width: 771px){
+    .titulo{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 20px;
+    }
+}
+
+
+@media only screen and (max-width: 689px) {
+    a{
+        font-family:Georgia, 'Times New Roman', Times, serif;
+        font-size: 20px;
+    
+    }
+}
+
+#logo-container {
+    
+    align-items: center;
+    justify-content: center;
+}
+#logo-container>img {
+    max-width: 100%;
+}
+
+.fond{
+    padding: 20px;
+    background-color:aliceblue; 
+    border:2px solid rgba(0, 0, 0, 0.562); 
+    border-radius: 10px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
