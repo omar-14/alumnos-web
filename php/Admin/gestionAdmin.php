@@ -58,7 +58,7 @@
         <ul class="sidenav" id="mobile-demo">
             <li><a class="nav-link" id="div-btn0" href="./Administrador.php">Administrador</a></li>
             <li><a class="nav-link" id="div-btn4" href="#">Gestion Administradores</a></li>
-            <li><a class="nav-link" id="div-btn5" href="#">Roportes</a></li>
+            <li><a class="nav-link" id="div-btn5" href="./Vista_horarios.php">Hotrarios Examen</a></li>
         </ul>
     </header>
 

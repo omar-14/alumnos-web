@@ -16,9 +16,6 @@
         <i class='fas fa-eye ver' data-boleta='$data[0]'></i>&nbsp;&nbsp;
         <i class='fas fa-edit editar' data-boleta='$data[0]'></i>&nbsp;&nbsp;
         <i class='fas fa-times eliminar' data-boleta='$data[0]'></i>&nbsp;&nbsp;
-        <i class='fas fa-file-pdf pdf' data-boleta='$data[0]'></i>&nbsp;&nbsp;
-        <i class='fas fa-envelope correo' data-boleta='$data[0]'></i>
-        
         </td>
     </tr>
     ";

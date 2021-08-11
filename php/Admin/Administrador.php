@@ -54,7 +54,7 @@
             <ul id="nav-mobile" class="right hide-on-med-and-down">
                 <li><a  href="./gestionAdmin.php">Gestion Administradores</a></li>
                 <li><a  href="./Vista_horarios.php">Horarios Examen</a></li>
-                <li><a  href="#">Roportes</a></li>
+                
             </ul>
             </div>
         </nav><br>
@@ -62,7 +62,6 @@
             <li><a class="nav-link" id="div-btn0" href="./Administrador.php">Administrador</a></li>
             <li><a  href="./gestionAdmin.php">Gestion Administradores</a></li>
             <li><a  href="./Vista_horarios.php">Horarios Examen</a></li>
-            <li><a class="nav-link" id="div-btn5" href="#">Roportes</a></li>
         </ul>
     </header>
 

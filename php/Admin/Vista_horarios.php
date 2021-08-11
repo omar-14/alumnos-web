@@ -51,7 +51,6 @@
             <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="fas fa-bars"></i></a>
             <ul id="nav-mobile" class="right hide-on-med-and-down">
                 <li><a href="#">Gestion Administradores</a></li>
-                <li><a href="#">Roportes</a></li>
             </ul>
             </div>
         </nav><br>
